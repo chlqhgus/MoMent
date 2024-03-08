@@ -19,7 +19,7 @@ https://drive.google.com/file/d/1rpiFVAS9pct8Cnk6wHsfuCX5btnBPHBR/view?usp=shari
 아래는 프로젝트에 대한 간략한 설명과 알고리즘을 담은 이미지입니다.
 
 
-<img width="1008" alt="스크린샷 2024-03-08 오후 11 36 20" src="https://github.com/chlqhgus/Creative-Algoritms/assets/162609030/626707d4-ca7e-4ad0-8a04-1229d4757292">
+<img width="919" alt="스크린샷 2024-03-08 오후 11 41 33" src="https://github.com/chlqhgus/Creative-Algoritms/assets/162609030/c36e25da-e297-4228-9704-4f90a2ff429b">
 <img width="1007" alt="스크린샷 2024-03-08 오후 11 36 59" src="https://github.com/chlqhgus/Creative-Algoritms/assets/162609030/c63e048c-0cc5-40a2-aab9-a70ea18f5a7b">
 <img width="1002" alt="스크린샷 2024-03-08 오후 11 37 10" src="https://github.com/chlqhgus/Creative-Algoritms/assets/162609030/0fa7502b-deb4-478f-b7fa-f1ea4a61d1ea">
 
